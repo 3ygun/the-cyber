@@ -7,6 +7,10 @@ My learning repo for Cyber Security Stuff
 - [Preperation](#preperation)
     - [Steps](#steps)
     - [Career Types](#career-types)
+        - [Reverse engineer](#reverse-engineer)
+        - [Big Data Engineer (Security)](#big-data-engineer-security)
+        - [Security Researcher](#security-researcher)
+        - [Security Engineer](#security-engineer)
     - [Skills](#skills)
         - [Reverse engineering](#reverse-engineering)
         - [Vulnerability research](#vulnerability-research)
@@ -16,6 +20,7 @@ My learning repo for Cyber Security Stuff
     - [Things to prep with](#things-to-prep-with)
 - [Resources](#resources)
     - [Tools](#tools)
+    - [GitHub Resources](#github-resources)
     - [Articles/Information](#articlesinformation)
 - [Positions](#positions)
     - [Companies](#companies)
@@ -35,6 +40,18 @@ My learning repo for Cyber Security Stuff
 2. Learn everything I can :heart:
 
 ### Career Types
+#### Reverse engineer
+#### Big Data Engineer (Security)
+- Positions:
+  - [OpenDNS](https://jobs.cisco.com/job/San-Francisco-Big-Data-Engineer-Security-Research-team-at-OpenDNS-CA-94101/381977600/)
+#### Security Researcher
+- Positions:
+  - [Malware Focus at OpenDNS](https://jobs.cisco.com/job/San-Francisco-Security-Researcher%2C-Malware-Focus-at-OpenDNS-CA-94101/380078200/)
+  - [Data Science Focus at OpenDNS](https://jobs.cisco.com/job/San-Francisco-Security-Researcher%2C-Data-Science-Focus-at-OpenDNS-CA-94101/381977800/)
+#### Security Engineer
+- Positions:
+  - [Software Engineer at OpenDNS](https://jobs.cisco.com/job/San-Francisco-Software-Engineer%2C-Security-Engineering-at-OpenDNS-CA-94101/377624400/)
+  - [Full Stack/Backend Software Engineer at OpenDNS](https://jobs.cisco.com/job/San-Jose-Full-StackBackend-Software-Engineer-at-OpenDNS-CA-95101/378480400/)
 
 ### Skills
 #### Reverse engineering
@@ -67,18 +84,24 @@ My learning repo for Cyber Security Stuff
 
 ### Things to prep with
 - CTF: Capture the Flag
-  - #1 has competitions links & recommends placing on resume
+  - Battelle has competitions links & recommends placing on resume
   - Tests:
     - Reverse engineering
     - Vulnerability research
     - Code auditing
     - Cryptography
     - Web exploitation
-
-
+- [Battelle Cyber Challenges](http://battellecyberchallenge.org/)
+  - Also [Battelle Automotive Cyber Event](http://www.sae.org/events/cyberauto/)
 
 ## Resources
 ### Tools
+
+### GitHub Resources
+- [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+  - Datasets, talks, papers, etc.
+- [Malware Analysis Course by Rensselaer Polytechnic Institute](https://github.com/RPISEC/Malware)
+  - Teaches "...skills in reverse engineering, malicious behaviour, malware, and anti-analysis techniques."
 
 
 ### Articles/Information
